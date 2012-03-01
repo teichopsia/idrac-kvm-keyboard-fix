@@ -11,7 +11,7 @@ on the Dell forums, newer Linux distros use `evdev` instead of `kbd` for
 the keyboard driver, and the keycodes don't match the ones expected by the
 KVM app.
 
-**As a result, certain keys won't work, as as SysRq and the arrow keys.**
+**As a result, certain keys won't work, such as SysRq and the arrow keys.**
 
 
 # The solution
